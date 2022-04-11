@@ -1,0 +1,11 @@
+{
+  "name": "DAY-1",
+  "version": "1.0.0",
+  "description": "Middleware",
+  "main": "index.js",
+  "author": "Emmanuel Asmah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
